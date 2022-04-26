@@ -10,7 +10,7 @@ header
 background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/stakkur.jpg);
 background-size: auto;
 background-repeat: no-repeat;
-background-position: center;
+/* background-position: center; */
 
 }
 
