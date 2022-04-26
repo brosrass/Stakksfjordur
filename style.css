@@ -7,7 +7,7 @@
 
 header
 {
-background-image: url(img/stakkur.jpg);
+        background-image: url(img/stakkur.jpg);
         background-repeat: no-repeat;
         background-size: 50%;
         background-position: fixed center;
